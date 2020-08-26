@@ -16,7 +16,7 @@ import org.junit.jupiter.api.TestInstance;
 import org.junit.jupiter.api.condition.EnabledOnOs;
 import org.junit.jupiter.api.condition.OS;
 
-@TestInstance(TestInstance.Lifecycle.PER_METHOD)
+
 
 class MathUtilsTest {
 	

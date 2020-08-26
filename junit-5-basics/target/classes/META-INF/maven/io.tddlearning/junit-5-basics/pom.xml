@@ -6,7 +6,7 @@
   <name>junit-5-basics</name>
   
   <properties>
-  <java.version>11</java.version>
+  
   <maven.compile.target>11</maven.compile.target>
   <maven.compiler.source>11</maven.compiler.source>
   <junit.jupiter.version>5.4.0</junit.jupiter.version>
