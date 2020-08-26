@@ -74,7 +74,6 @@ class MathUtilsTest {
 		int expected = 2;
 		int actual = obj.divide(4, 2);
 		assertEquals(expected, actual, "Divide method to subtract numbers");
-		//assertThrows(ArithmeticException.class, () -> obj.divide(2, 0), "Divide by zero should throw");
 		
 	}
 	
