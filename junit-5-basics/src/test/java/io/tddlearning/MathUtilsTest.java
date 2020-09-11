@@ -68,7 +68,7 @@ class MathUtilsTest {
 	}
 	
 	@Test
-	@Disabled
+	
 	@Tag("Math")
 	void testDivide() {
 		int expected = 2;
